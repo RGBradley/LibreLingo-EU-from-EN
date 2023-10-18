@@ -1,7 +1,7 @@
 Skill:
   Id: 12
   Name: Basics 2
-  Thumbnails:
+  
 
 New words:
   - Word: gizona
@@ -33,8 +33,6 @@ New words:
 
   - Word: ere
     Translation: also
-    Images:
-
 
   - Word: irakasle
     Translation: teacher
@@ -152,7 +150,8 @@ Phrases:
     Alternative versions:
      - Miren da. Miren emakumea da.
     Translation: She is Miren. Miren is a woman.
-    Alternative translations: She is Miren. Miren is the woman.
+    Alternative translations:
+     - She is Miren. Miren is the woman.
 
   - Phrase: Miren ere irakaslea da.
     Translation: Miren is also a teacher.

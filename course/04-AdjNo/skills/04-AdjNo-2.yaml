@@ -1,7 +1,7 @@
 Skill:
   Id: 42
   Name: Adj 2
-  Thumbnails:
+  
 
 New words:
   - Word: ez
@@ -13,8 +13,6 @@ New words:
 
   - Word: baizik
     Translation: but (rather)
-    Images:
-
 
   - Word: hotel
     Translation: hotel

@@ -1,7 +1,7 @@
 Skill:
   Id: 123
   Name: Bizi 3
-  Thumbnails:
+  
 
 New words:
   - Word: Ni bizi  nintzen.
@@ -29,7 +29,6 @@ New words:
 
   - Word: Gu bizi ginen
     Translation: We lived
-    Images:
 
   - Word: Zuek bizi  zineten
     Translation: You (plural) lived
@@ -69,7 +68,7 @@ New words:
 Phrases:
   - Phrase: Ni Italian bizi nintzen, baina orain Espainian bizi naiz.
     Alternative versions:
-     -Italian bizi nintzen, baina orain Espainian bizi naiz.
+     - Italian bizi nintzen, baina orain Espainian bizi naiz.
     Translation: I lived in Italy, but now I live in Spain.
 
   - Phrase: Ni duela bi urte Europan bizi nintzen,

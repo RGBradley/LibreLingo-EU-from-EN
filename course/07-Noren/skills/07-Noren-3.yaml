@@ -1,7 +1,7 @@
 Skill:
   Id: 73
   Name: NOREN 3
-  Thumbnails:
+  
 
 New words:
   - Word: Aitorren
@@ -31,8 +31,6 @@ New words:
 
   - Word: noren
     Translation: whose
-    Images:
-
 
   - Word: liburu
     Translation: book

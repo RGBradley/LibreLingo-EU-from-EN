@@ -1,7 +1,7 @@
 Skill:
   Id: 101
   Name: Numbers and Math 1
-  Thumbnails:
+  
 
 New words:
   - Word: bat
@@ -50,8 +50,6 @@ New words:
     Translation: How much
     Also accepted:
       - How many
-    Images:
-
 
 Phrases:
   - Phrase: Barkatu. Zenbat da liburua?

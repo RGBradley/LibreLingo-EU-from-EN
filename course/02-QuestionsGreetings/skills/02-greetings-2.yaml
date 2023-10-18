@@ -1,7 +1,7 @@
 Skill:
   Id: 23
   Name: Greetings 2
-  Thumbnails:
+  
 
 
 New words:
@@ -23,8 +23,6 @@ New words:
 
   - Word: arte
     Translation: until
-    Images:
-
 
   - Word: ez da ezer
     Translation: It is nothing.
